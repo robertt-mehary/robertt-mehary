@@ -27,4 +27,7 @@
 </div>
 
   
-![Yetopen GIF]([https://media.tenor.com/sb7m-HmvBxIAAAAC/yetopen.gif](https://tenor.com/pt-BR/view/yetopen-gif-27266616))
+<p align="center">
+  <img src="https://media.tenor.com/abc123xyzAAAAC/yetopen.gif" width="300"/>
+</p>
+
