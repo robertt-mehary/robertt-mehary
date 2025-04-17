@@ -1,23 +1,16 @@
 ## Hello, Devs!! 👋
 
 
-# Olá, me chamo Robertt Mehary ! 
+# Olá, me chamo Robertt Mehary !! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou estagiando no Centro de Desenvolvimento de Sistemas do Exército (CDS).
 - 🌱 Atualmente estou aprendendo Linux Git e Docker focando em containers e volumes. 
-- 👯 Estou procurando colaborar em ...
-- 🤔 Estou procurando ajuda com ...
-- 💬 Pergunte-me sobre ...
-- 📫 Como entrar em contato comigo: ...
-- 😄 Pronomes: ...
-- ⚡ Curiosidade: ...
+- ⚡ Curiosidade: Militar do Exército Brasileiro !!
 
 
 ## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50" />
 
 
 ## Contatos:
@@ -33,5 +26,5 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
+  
 <div class="tenor-gif-embed" data-postid="27266616" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/yetopen-gif-27266616">Yetopen GIF</a>from <a href="https://tenor.com/search/yetopen-gifs">Yetopen GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
