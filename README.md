@@ -5,7 +5,7 @@
 -  Estou me formando em Analise e Desenvolvimento de Sistemas.
 -  Atualmente estou estagiando no Centro de Desenvolvimento de Sistemas do Exército (CDS).
 -  Atualmente estou aprendendo Linux Git e Docker focando em containers e volumes. 
--  Curiosidade: Militar do Exército Brasileiro !!
+-  Curiosidade: Militar do Exército Brasileiro!⚡
 
 
 ## Estou aprendendo
