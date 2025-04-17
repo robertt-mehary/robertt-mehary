@@ -27,4 +27,4 @@
 </div>
 
   
-<div class="tenor-gif-embed" data-postid="27266616" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/yetopen-gif-27266616">Yetopen GIF</a>from <a href="https://tenor.com/search/yetopen-gifs">Yetopen GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Yetopen GIF]([https://media.tenor.com/sb7m-HmvBxIAAAAC/yetopen.gif](https://tenor.com/pt-BR/view/yetopen-gif-27266616))
